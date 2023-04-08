@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ismet.akin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ismet-akin-7b0284244/](https://www.linkedin.com/in/ismet-akin-7b0284244/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ismet-akin/](https://www.linkedin.com/in/ismet-akin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
