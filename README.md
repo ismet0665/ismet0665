@@ -42,6 +42,6 @@
  
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
-[React - Tailwind](https://country-flags-and-capitals.netlify.app/) <h3>[Repo](https://country-flags-and-capitals.netlify.app/)</h3> | React - Tailwind |<img src="![country](https://user-images.githubusercontent.com/118618011/232515356-5884bb08-7a4b-43f7-b13d-01374593fc97.gif)
-" align="right" width="500">
+[React - Tailwind](https://country-flags-and-capitals.netlify.app/) <h3>[Repo](https://country-flags-and-capitals.netlify.app/)</h3> | React - Tailwind |![country](https://user-images.githubusercontent.com/118618011/232515356-5884bb08-7a4b-43f7-b13d-01374593fc97.gif)
+
 
