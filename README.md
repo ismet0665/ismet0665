@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ismet-akin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇smet akin" height="30" width="40" /></a>
 </p>
+<div align="center">
 <p align="center">
 <h3 align="left">Languages and Tools:</h3>
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -32,5 +33,5 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
     </p>
-
+ </div>
 
