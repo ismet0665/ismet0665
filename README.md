@@ -39,10 +39,8 @@
  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"       alt="JIRA"      />
 
  </div>
- | Plugin | README |
-| ------ | ------ |
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+ 
+Project Demo       |Libraries and Technologies I use  |Project Preview   
+:-------------------------|---------------------|------------------
+[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
 
