@@ -7,7 +7,6 @@
 
 - 📌 I’m looking to collaborate on **React.js**
 
-- 📫 How to reach me **ismet.akin@gmail.com**
 - 📫 How to reach me **(http://ismetakin.com/)**
 - 📄 Know about my experiences [https://www.linkedin.com/in/ismet-akin/](https://www.linkedin.com/in/ismet-akin/)
 
